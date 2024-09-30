@@ -51,3 +51,6 @@ Acredito que a tecnologia tem o poder de transformar o mundo e estou sempre busc
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=WhatsApp&logoColor=30A3DC)](https://w.app/devezequias)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/dev-ezequias)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quiasss/)
+
+
+![snake gif](https://github.com/your-user-name/dev-ezequias/blob/output/github-contribution-grid-snake.gif)
