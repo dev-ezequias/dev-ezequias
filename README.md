@@ -8,14 +8,14 @@ Minha missão é criar páginas web que encantem os usuários. Busco desenvolver
 
 **Sobre mim:**
 
-Olá, me chamo Ezequias, sou mineiro, pardo, pai de pet e apaixonado por tecnologia. Sou estudante do curso **técnico de Desenvolvimento de Sistemas** na PROZ - Educação Profissional e **graduando em Análise e Desenvolvimento de Sistemas** na Faculdade Descomplica. Atualmente trabalho como atendente ao cliente na Localiza&Co, mas **minha verdadeira paixão é a programação.** 
+Olá, me chamo Ezequias, sou mineiro, pardo, pai de um lindo garotinho e apaixonado por tecnologia. Sou estudante do curso **Full Stack** na Vai na Web. Atualmente trabalho como atendente ao cliente na Localiza&Co, mas **minha verdadeira paixão é a programação.** 
 
 
 ### Metas Futuras 🎯
 
- * 🚀 Conquistar uma vaga de estágiario na área de tecnologia em uma grande empresa.
- * 🧠 Completar os meus estudos e me tornar um Desenvolvedor Front-End de Sucesso.
- * 🌟 Compartilhar meu conhecimento e experiências.
+ * 🚀 Conquistar uma vaga de estágiario ou junior na área de desenvolvimento.
+ * 🚀 Completar os meus estudos e me tornar um Desenvolvedor de sucesso.
+ * 🚀 Compartilhar meu conhecimento e experiências.
 
 
 
