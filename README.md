@@ -1,14 +1,11 @@
 
-## Olá! Seja Bem Vindo ao meu perfil! 😁👋🏽‍
+<h1 align='center'> Olá! Seja Bem Vindo ao meu perfil! 😁👋</h1>
 
 ![Ezequias dev (1080 x 400 px)](https://github.com/user-attachments/assets/24a377b1-d80d-41ba-a244-03d9e50a1e7a)
-Minha missão é criar páginas web que encantem os usuários. Busco desenvolver interfaces intuitivas e visuais impactantes, garantindo uma navegação fluida e experiências memoráveis em cada interação.
 
-------
+ ### Sobre mim
 
-**Sobre mim:**
-
-Olá, me chamo Ezequias, sou mineiro, pardo, pai de um lindo garotinho e apaixonado por tecnologia. Sou estudante do curso **Full Stack** na Vai na Web. Atualmente trabalho como atendente ao cliente na Localiza&Co, mas **minha verdadeira paixão é a programação.** 
+<p>Olá, me chamo Ezequias, sou mineiro, pardo, pai de um lindo garotinho e apaixonado por tecnologia. Sou estudante do curso <strong>Full Stack</strong> na Vai na Web. Atualmente trabalho como atendente ao cliente na Localiza&Co, mas minha verdadeira paixão é a programação.</p>
 
 
 ### Metas Futuras 🎯
@@ -17,11 +14,9 @@ Olá, me chamo Ezequias, sou mineiro, pardo, pai de um lindo garotinho e apaixon
  * 🚀 Completar os meus estudos e me tornar um Desenvolvedor de sucesso.
  * 🚀 Compartilhar meu conhecimento e experiências.
 
+ ### Habilidades 🔧
 
-
-**Sou proficiente em:** 👨🏽‍💻
- 
- * Habilidades 🔧
+<br>
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
@@ -30,22 +25,21 @@ Olá, me chamo Ezequias, sou mineiro, pardo, pai de um lindo garotinho e apaixon
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=30A3DC)](https://getbootstrap.com/)
 
+<br>
 
-**Principais Projetos:**
+ ### Principais Projetos
 
 * **[Clinica Ginecológica Serenidade]:** Desenvolvimento de uma landing page para uma Clínica Ginecológica. 
 
-        Link para o reposítorio: https://github.com/dev-ezequias/clinica
-* **[Barbearia Cabelo&Café]:** Desenvolvimento de uma landing page para uma Barbearia. 
-
-            Link para o reposítorio: (https://github.com/dev-ezequias/clinica)
+  <h4>Link para o reposítorio: https://github.com/dev-ezequias/clinica</h4>
 
 
 
-### Contato 🔗
+### Entre em contato 📱
 
-Acredito que a tecnologia tem o poder de transformar o mundo e estou sempre buscando formas de contribuir para isso. Sou apaixonado por projetos open-source e adoro aprender coisas novas. Se você está buscando um desenvolvedor Front-End dedicado e proativo, entre em contato!
+Acredito que a tecnologia tem o poder de transformar o mundo e estou sempre buscando formas de contribuir para isso. Sou apaixonado por projetos open-source e adoro aprender coisas novas. Se você está buscando um desenvolvedor dedicado e proativo, entre em contato!
 
+<br>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:ezequias.sccontato@icloud.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=WhatsApp&logoColor=30A3DC)](https://w.app/devezequias)
