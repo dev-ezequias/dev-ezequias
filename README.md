@@ -22,7 +22,6 @@
 
  ### Habilidades 🔧
 
-<br>
 
 <p align=center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Simbolo HTML5" width="50">
@@ -33,7 +32,6 @@
 </p>
 
 
-<br>
 
  ### Principais Projetos 🧑🏽‍💻
 
@@ -47,7 +45,7 @@
 
 Acredito que a tecnologia tem o poder de transformar o mundo e estou sempre buscando formas de contribuir para isso. Sou apaixonado por projetos open-source e adoro aprender coisas novas. Se você está buscando um desenvolvedor dedicado e proativo, entre em contato!
 
-<br>
+
 <p align=center>
   <a href="mailto:ezequias.sccontato@gmail.com"> <img src="https://github.com/dev-ezequias/dev-ezequias/blob/main/envelope-solid-full.svg" width="50" ></a>
   <a href="https://www.contate.me/5531998737255"><img src="https://github.com/dev-ezequias/dev-ezequias/blob/main/whatsapp-brands-solid-full%20(1).svg" width="50"></a>
