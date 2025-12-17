@@ -1,9 +1,9 @@
 
 <h1 align='center'> Olá! Seja Bem Vindo ao meu perfil! 😁👋</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/dev-ezequias/dev-ezequias/blob/main/sem%20marca.jpg" alt="Logo do Projeto" width="300">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/24a377b1-d80d-41ba-a244-03d9e50a1e7a" alt="Logo do Projeto" width="400">
@@ -31,7 +31,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Simbolo Node.js" width="50">
 </p>
 
-
+<!-- >
+  
 
  ### Principais Projetos 🧑🏽‍💻
 
@@ -39,7 +40,7 @@
 
   <h4>Link para o reposítorio: https://github.com/dev-ezequias/clinica</h4>
 
-
+</ -->
 
 ### Entre em contato 📱
 
